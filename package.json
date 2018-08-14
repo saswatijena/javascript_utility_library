@@ -1,0 +1,19 @@
+{
+  "name": "javascript_utility_library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saswatijena/javascript_utility_library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saswatijena/javascript_utility_library/issues"
+  },
+  "homepage": "https://github.com/saswatijena/javascript_utility_library#readme"
+}
